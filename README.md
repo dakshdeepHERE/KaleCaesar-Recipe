@@ -2,7 +2,9 @@
 
 ## Description
 
-This project is a recipe website that showcases a healthy Quinoa and Kale Salad recipe. It provides detailed instructions and ingredients needed to prepare the salad.
+This project is a recipe website that showcases a healthy Quinoa and Kale Salad recipe. It provides detailed instructions and ingredients needed to prepare the salad. Basic website I made to practice HTML and CSS.
+
+
 
 ## Features
 
